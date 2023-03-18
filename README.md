@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Max Cereceda 👋</h1>
 <h4 align="center">https://maxcereceda.netlify.app/</h2>
 
-<p><em>Un <b>Desarrollador Web Full Stack</b> con un gran interés en tecnología y ciencia ficción. Me encanta programar y tengo experiencia en el desarrollo de aplicaciones web, así como en la integración de sistemas y bases de datos.</br>
+<p><em>A</em> <b>Full Stack Web Developer</b><em> with a keen interest in technology and science fiction. I enjoy programming and have experience in web application development, as well as system integration and database integration.</br>
 </em></p>
 
 <div id="header" align="center">
@@ -30,39 +30,32 @@
   <a href=""><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> <a/>
   <a href=""><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" /> <a/>
   </div>
-    
-  
-## 🔭 Actualmente estoy trabajando en...
+   
+## 🔭 Currently, I am working on...
+Web development projects, where I use tools such as React js, Node.js, and Express.
 
-Proyectos de desarrollo web, donde utilizo herramientas como React js, Node.js, Express.
+## 🌱 Currently, I am learning...
+New technologies such as React Native, MongoDB, and PostgreSQL to expand my skills and knowledge.
 
-## 🌱 Actualmente estoy aprendiendo...
+## 🌍 I am looking to collaborate on...
+Projects that allow me to work in a team and continue learning new technologies. I am also passionate about the world of science fiction, so I would be interested in collaborating on projects related to this topic.
 
-Nuevas tecnologías como React Native, MongoDB y PostgreSQL para expandir mis habilidades y conocimientos.
+## 💬 Ask me about...
+Full-stack web development, system integration and database integration, and technologies such as React, Node.js, Express, MongoDB, React Native, and PostgreSQL.
 
-## 🌍 Estoy buscando colaborar en...
+## 📫 How to reach me...
+You can contact me through my social media profiles:
 
-Proyectos que me permitan trabajar en equipo y seguir aprendiendo nuevas tecnologías. También me apasiona el mundo de la ciencia ficción, por lo que estaría interesado en colaborar en proyectos relacionados con este tema.
-
-## 💬 Pregúntame sobre...
-
-Desarrollo web full stack, integración de sistemas y bases de datos, y tecnologías como React, Node.js, Express, MongoDB, React Native y PostgreSQL.
-
-## 📫 Cómo contactarme...
-
-Puedes contactarme a través de mis perfiles de Redes Sociales:
-
-## ⚡ Datos curioso...
-
-Me gusta mucho leer ciencia ficción y también soy un gran fanático del cine. En mi tiempo libre, me gusta trabajar en proyectos de tecnología y disfrutar de los atardeceres.
+## ⚡ Fun fact...
+I really enjoy reading science fiction, and I am also a big fan of movies. In my free time, I like to work on technology projects and enjoy sunsets.
 
     
 </br></br>
-<h2>💻 Estadisticas:</h2>
+<h2>💻 Stats:</h2>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=cereceda1991&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cereceda1991&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ----
-
-¡Gracias por visitar mi perfil de GitHub!
+   
+Thank you for visiting my GitHub profile!
