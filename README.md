@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Max Cereceda 👋</h1>
-<h4 align="center">https://maxcereceda.netlify.app/</h2>
+<h4 align="center">https://maxcereceda.netlify.app/</h4>
 
 <p><em>A</em> <b>Full Stack Web Developer</b><em> with a keen interest in technology and science fiction. I enjoy programming and have experience in web application development, as well as system integration and database integration.</br>
 </em></p>
@@ -50,12 +50,12 @@ You can contact me through my social media profiles:
 I really enjoy reading science fiction, and I am also a big fan of movies. In my free time, I like to work on technology projects and enjoy sunsets.
 
     
-</br></br>
+<br><br>
 <h2>💻 Stats:</h2>
-
-![github stats](https://github-readme-stats.vercel.app/api?username=cereceda1991&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cereceda1991&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-----
-   
-Thank you for visiting my GitHub profile!
+  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=cereceda1991&show_icons=true&locale=en&theme=dark" alt="cereceda1991" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=cereceda1991&theme=dark" alt="cereceda1991" />
+<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=cereceda1991&show_icons=true&locale=en&layout=compact&theme=dark" alt="cereceda1991" />
+  
+  <br>
+  <h3>Thank you for visiting my GitHub profile!</h3>
