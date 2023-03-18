@@ -54,8 +54,8 @@ I really enjoy reading science fiction, and I am also a big fan of movies. In my
 <h2>💻 Stats:</h2>
 
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=cereceda1991&theme=dark" alt="cereceda1991" />&nbsp
-<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=cereceda1991&show_icons=true&locale=en&theme=dark" alt="cereceda1991" />&nbsp
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=cereceda1991&theme=dark" alt="cereceda1991" />&nbsp;
+<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=cereceda1991&show_icons=true&locale=en&theme=dark" alt="cereceda1991" />&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cereceda1991&show_icons=true&locale=en&layout=compact&theme=dark" alt="cereceda1991" />
   
   <br>
