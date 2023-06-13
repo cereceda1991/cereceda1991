@@ -35,7 +35,7 @@
 Web development projects, where I use tools such as React js, Node.js, and Express.
 
 ## 🌱 Currently, I am learning...
-New technologies such as React Native, MongoDB, and PostgreSQL to expand my skills and knowledge.
+New technologies such as React Native, MongoDB, and Nest Js to expand my skills and knowledge.
 
 ## 🌍 I am looking to collaborate on...
 Projects that allow me to work in a team and continue learning new technologies. I am also passionate about the world of science fiction, so I would be interested in collaborating on projects related to this topic.
